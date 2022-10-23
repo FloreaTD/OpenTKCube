@@ -1,0 +1,6 @@
+# OpenTKCube
+FIESC, materia EGC, laborator 2, pct. 2
+
+Tasta A - PENTRU A AFISA CUBUL
+Tasta S - PENTRU A STERGE CUBUL
+Tasta SPACE - PENTRU A ROTI CUBUL MAI REPEDE
